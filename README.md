@@ -6,8 +6,10 @@ AI が聞き間違ったりまとめ間違う前提でご参考ください。
 
 ## イベント情報
 
-ビジュアルプログラミングIoTLT vol.22 - connpass
-https://iotlt.connpass.com/event/376450/
+![image](./2026-01-19-21-41-03-932.png)
+
+- ビジュアルプログラミングIoTLT vol.22 - connpass
+  - https://iotlt.connpass.com/event/376450/
 
 ## 要約
 
